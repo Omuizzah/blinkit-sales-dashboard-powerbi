@@ -13,7 +13,10 @@ It provides insights into sales performance, outlet location, and customer behav
 ## Tools Used
 - Power BI
 - Excel
-
+## File included
+- Excel dataset(.xlsx)
+- power BI (.pbix)
+- Dashboard screenshot
 # Dataset
 The dataset contains grocery sales data including:
 - Item type
@@ -37,9 +40,7 @@ The dataset contains grocery sales data including:
 - Supermarket Type 1 contributed the most revenue
 - Low-fat products had strong sales performance
 - Sales peaked around 2018–2019
-- 
-## Dashboard preview
-
+  
 ## conclusion
 This dashboard helps understand sales trends and support  better bussines decisions
 
